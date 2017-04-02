@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Swiperoo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_swiperoo_sample">Swiperoo Sample</string>
+</resources>
