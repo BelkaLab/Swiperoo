@@ -1,7 +1,5 @@
 # Swiperoo Adapter
 
-![Alt text](https://img.shields.io/badge/license-MIT-green.svg?style=flat)
-
 An extandable adapter which provides *swipe to delete* on your row item.
 
 ## Installation
