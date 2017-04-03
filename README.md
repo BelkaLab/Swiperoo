@@ -10,14 +10,6 @@ An extandable adapter which provides *swipe to delete* on your row item.
 Add Gradle dependency:
 
 ```groovy
-allprojects {
-    repositories {
-        maven {
-            url 'https://dl.bintray.com/frizzonelli/maven/'
-        }
-    }
-}
-
 dependencies {
     compile 'us.belka:swiperoo-library:1.0.0'
 }
