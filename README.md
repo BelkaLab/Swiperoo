@@ -29,7 +29,7 @@ In the app folder you will find a working example of the library
 
 You need to do 3 things to make the library works:
 
-1 Create your ViewHolder
+### 1. Create your ViewHolder
 ```java
     public class MyViewHolder extends SwiperooViewHolder<String> {
 
@@ -54,7 +54,7 @@ You need to do 3 things to make the library works:
 
 Pay attention to the Factory class, you need to return an instance of your ViewHolder (Factory pattern)
 
-2 Create your Adapter
+### 2. Create your Adapter
 
 ```java
     public class MyAdapter extends SwiperooAdapter<String> {
@@ -65,7 +65,7 @@ Pay attention to the Factory class, you need to return an instance of your ViewH
     }
 ```
 
-3 Put it all togheter
+### 3. Put it all togheter
 
 ```java
     mSwiperooRecyclerView.setLayoutManager(new LinearLayoutManager(this));
