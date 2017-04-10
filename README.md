@@ -2,6 +2,8 @@
 
 An extandable adapter which provides *swipe to delete* on your row item.
 
+Inspired by: https://github.com/nemanja-kovacevic/recycler-view-swipe-to-delete
+
 ## Installation
 
 #### Gradle
