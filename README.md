@@ -2,6 +2,10 @@
 
 An extandable adapter which provides *swipe to delete* on your row item.
 
+### Live demo
+
+![alt text](https://github.com/BelkaLab/Swiperoo/blob/master/swiperoo-library-live-demo.gif "Live demo")
+
 Inspired by: https://github.com/nemanja-kovacevic/recycler-view-swipe-to-delete
 
 ## Installation
