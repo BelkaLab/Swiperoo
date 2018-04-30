@@ -101,7 +101,7 @@ Your item layout container must be a **Relative Layout**, otherwise the Holder w
 Swiperoo is Copyright (c) 2017 Belka, srl. It is free software, and may be redistributed under the terms specified in the LICENSE file.  
 
 ## About Belka
-[![logo_rosso.jpg](https://s11.postimg.org/4emy4pklv/logo_rosso.jpg)](http://belka.us/en)
+![Belka Logo](https://s.gravatar.com/avatar/88dc2225d85299e04489f56d5f38a533?size=180)
 
 [Belka](http://belka.us/en) is a Digital Agency specialized in design, mobile applications development and custom solutions.
 We love open source software! You can [see our projects](http://belka.us/en/portfolio/) or look at our case studies.
